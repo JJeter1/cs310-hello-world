@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Justin Jeter
  */
 
 public class Class1 {
